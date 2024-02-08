@@ -1,0 +1,53 @@
+*{margin: 0;
+    padding: 0;}
+    
+    
+    .banner{
+        height: 300px;
+        background-color: rgb(178, 110, 196);
+        color: azure;
+        text-align: center;
+    }
+    .about{
+        
+        background-color: rgb(219, 165, 233);
+        height: 600px;
+        display: flex;
+        border-color: blueviolet;
+        border-style: dotted;
+
+    }
+    .about_left{
+        background-color: rgb(195, 147, 207);
+        
+        width:30%;
+        border-color: blueviolet;
+        border-style: dotted;
+    }
+    .about_right{
+        background-color: rgb(181, 136, 192);
+        padding:2%;
+        margin:2%;
+        width:70%;
+        border-color: blueviolet;
+        border-style: dotted;
+        color:azure;
+        text-align: center;
+        
+
+    }
+    .footer{
+        height: 50px;
+        background-color: rgb(178, 110, 196);
+        color: azure;
+        text-align: center;
+    }
+    .section{
+        background-color: rgb(144, 97, 156);
+        padding:2%;
+        margin:2%;
+        Height:100px;
+        
+        border-color: blueviolet;
+        border-style: dotted; 
+    }
